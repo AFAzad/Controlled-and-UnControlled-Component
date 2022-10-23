@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Controlled-and-UnControlled-Component/static/css/main.63ca9dca.css",
+    "main.js": "/Controlled-and-UnControlled-Component/static/js/main.d7178218.js",
+    "static/js/787.879309a9.chunk.js": "/Controlled-and-UnControlled-Component/static/js/787.879309a9.chunk.js",
+    "index.html": "/Controlled-and-UnControlled-Component/index.html",
+    "main.63ca9dca.css.map": "/Controlled-and-UnControlled-Component/static/css/main.63ca9dca.css.map",
+    "main.d7178218.js.map": "/Controlled-and-UnControlled-Component/static/js/main.d7178218.js.map",
+    "787.879309a9.chunk.js.map": "/Controlled-and-UnControlled-Component/static/js/787.879309a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ca9dca.css",
+    "static/js/main.d7178218.js"
+  ]
+}
